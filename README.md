@@ -1,0 +1,4 @@
+faq
+===
+
+Accordian panels
